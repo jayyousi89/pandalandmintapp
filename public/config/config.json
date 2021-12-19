@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0xB6847E80Fb7fd2253B688629C37870055A1246c7",
+  "SCAN_LINK": "https://polygonscan.com/token/0xB6847E80Fb7fd2253B688629C37870055A1246c7",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Baby Panda NFT",
+  "SYMBOL": "BPN",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 6000000000000000000,
+  "DISPLAY_COST": 6,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/baby-panda-nfts",
+  "WEBSITE_LINK": "https://pandalandnfts.com",
+  "ADD_POLYGON": "https://discordapp.com/channels/916808396345315388/921819979970654248/921905166725296130",
+  "SHOW_BACKGROUND": true
+}
