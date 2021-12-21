@@ -234,13 +234,7 @@ function App() {
             >
               {data.totalSupply} / {CONFIG.MAX_SUPPLY}
             </s.TextTitle>
-            <s.TextDescription
-              style={{
-                textAlign: "center",
-                color: "var(--primary-text)",
-              }}
-            >
-             
+          
               <StyledButton
                 onClick={(e) => {
                   window.open(CONFIG.WEBSITE_LINK, "_blank");
