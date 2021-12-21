@@ -240,15 +240,7 @@ function App() {
                 color: "var(--primary-text)",
               }}
             >
-              <StyledLink target={"_blank"} href={CONFIG.SCAN_LINK}>
-                {truncate(CONFIG.CONTRACT_ADDRESS, 15)}
-              </StyledLink>
-            </s.TextDescription>
-            <span
-              style={{
-                textAlign: "center",
-              }}
-            >
+             
               <StyledButton
                 onClick={(e) => {
                   window.open(CONFIG.WEBSITE_LINK, "_blank");
