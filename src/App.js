@@ -293,8 +293,7 @@ function App() {
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  1 {CONFIG.SYMBOL} costs {CONFIG.DISPLAY_COST}{" "}
-                  {CONFIG.NETWORK.SYMBOL}.
+                  Use Metamask Mobile Browser Or Desktop For Minting
                 </s.TextTitle>
                 <s.SpacerXSmall />
                 <s.TextDescription
