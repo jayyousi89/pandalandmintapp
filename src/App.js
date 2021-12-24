@@ -293,7 +293,7 @@ function App() {
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Use Metamask Mobile Browser Or Desktop For Minting
+                  ⚠️Use Metamask Mobile Browser Or Desktop For Minting⚠️
                 </s.TextTitle>
                 <s.SpacerXSmall />
                 <s.TextDescription
