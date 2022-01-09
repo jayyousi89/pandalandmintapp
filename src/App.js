@@ -98,7 +98,7 @@ function App() {
   const dispatch = useDispatch();
   const blockchain = useSelector((state) => state.blockchain);
   const data = useSelector((state) => state.data);
-  const [claimingNft, setClaimingNft] = useState(false);
+  const [claimingNft, setClaimingNft] = useState(true);
   const [feedback, setFeedback] = useState(`Click buy to mint your NFT, you have chance to get rare or super rar NFT.`);
   const [mintAmount, setMintAmount] = useState(1);
   const [CONFIG, SET_CONFIG] = useState({
