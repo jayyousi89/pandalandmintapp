@@ -9,12 +9,12 @@
   "NFT_NAME": "Baby Panda NFT",
   "SYMBOL": "BPN",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 15000000000000000000,
-  "DISPLAY_COST": 15,
+  "WEI_COST": 25000000000000000000,
+  "DISPLAY_COST": 25,
   "GAS_LIMIT": 3000000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/baby-panda-nfts",
-  "WEBSITE_LINK": "#",
+  "WEBSITE_LINK": "https://pandalandnfts.com",
   "ADD_POLYGON": "https://discord.gg/NBynwZqXH6",
   "SHOW_BACKGROUND": true
 }
