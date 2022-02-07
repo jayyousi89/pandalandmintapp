@@ -293,7 +293,7 @@ function App() {
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  ⚠️Use Metamask Mobile Browser Or Desktop For Minting⚠️
+                  ⚠️Click connect to show how many NFTs are minted⚠️
                 </s.TextTitle>
                 <s.SpacerXSmall />
                 <s.TextDescription
