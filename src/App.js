@@ -320,7 +320,7 @@ function App() {
                   window.open(CONFIG.ADD_POLYGON, "_blank");
                 }}
               >
-                Add Now
+                Add Polygon
               </StyledButton>
                     </s.TextDescription>
                     <s.SpacerSmall />
