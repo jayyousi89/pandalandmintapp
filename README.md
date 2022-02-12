@@ -8,7 +8,7 @@ To find out more please visit:
 
 [📺 Discord](https://discord.gg/3CpugxCBa4)
 
-[💬 Telegram](https://t.me/pandalandnfts)
+[💬 Telegram](https://t.me/nftsland)
 
 [🐦 Twitter](https://twitter.com/pandalandnfts)
 
