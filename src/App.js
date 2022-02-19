@@ -224,8 +224,7 @@ function App() {
               boxShadow: "0px 5px 11px 2px rgba(0,0,0,0.7)",
             }}
           >
-           <s.SpacerMedium>
-            <s.TextDescription
+            <s.TextTitle
               style={{
                 textAlign: "center",
                 fontSize: 50,
@@ -234,8 +233,7 @@ function App() {
               }}
             >
               {data.totalSupply}
-            </s.TextDescription>
-           <s.SpacerMedium />
+            </s.TextTitle>
             <s.TextDescription
               style={{
                 textAlign: "center",
