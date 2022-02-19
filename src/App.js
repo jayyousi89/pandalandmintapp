@@ -224,7 +224,8 @@ function App() {
               boxShadow: "0px 5px 11px 2px rgba(0,0,0,0.7)",
             }}
           >
-            <s.TextTitle
+           <s.Container ai={"center"} jc={"center"}>
+            <s.TextDescription
               style={{
                 textAlign: "center",
                 fontSize: 50,
@@ -232,8 +233,9 @@ function App() {
                 color: "var(--accent-text)",
               }}
             >
-              {data.totalSupply} / {CONFIG.MAX_SUPPLY}
-            </s.TextTitle>
+              {data.totalSupply}
+            </s.TextDescription>
+            </s.Container>
             <s.TextDescription
               style={{
                 textAlign: "center",
