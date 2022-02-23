@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 10000,
   "WEI_COST": 3000000000000000000,
   "DISPLAY_COST": 3,
-  "GAS_LIMIT": ,
+  "GAS_LIMIT": 850000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/baby-panda-nfts",
   "WEBSITE_LINK": "https://pandalandnfts.com",
